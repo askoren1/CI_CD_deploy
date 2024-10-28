@@ -6,8 +6,7 @@ import (
 	"time"
 
 	_ "modernc.org/sqlite"
-	//_ "github.com/askoren1/CI_CD_deploy/parcel.go"
-)
+	)
 
 const (
 	ParcelStatusRegistered = "registered"
